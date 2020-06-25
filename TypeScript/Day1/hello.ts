@@ -1,6 +1,12 @@
-class Person {
-    message: string = "hello word 3"
-}
-  
-const p1 = new Person()
-console.log(p1.message)
+const message: string = "hello world";
+const age: number = 30;
+const isShown: boolean = false;
+let student: {id: number, name: string};
+let studentList: string[];
+
+student = {
+    id: 100,
+    name: "Nordic Coder"
+};
+
+studentList = ["hello-world.ts", "hello-world.js"];
