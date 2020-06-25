@@ -1,10 +1,10 @@
-var message = "hello world";
-var age = 30;
+var firstName = "Thuc Hi";
+var price = 100;
 var isShown = false;
-var student;
-var studentList;
-student = {
+var product;
+var productList;
+product = {
     id: 100,
     name: "Nordic Coder"
 };
-studentList = ["hello-world.ts", "hello-world.js"];
+productList = ["hello-world.ts", "hello-world.js"];

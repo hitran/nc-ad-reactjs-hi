@@ -1,12 +1,12 @@
-const message: string = "hello world";
-const age: number = 30;
+const firstName: string = "Thuc Hi";
+const price: number = 100;
 const isShown: boolean = false;
-let student: {id: number, name: string};
-let studentList: string[];
+let product: {id: number, name: string};
+let productList: string[];
 
-student = {
+product = {
     id: 100,
     name: "Nordic Coder"
 };
 
-studentList = ["hello-world.ts", "hello-world.js"];
+productList = ["hello-world.ts", "hello-world.js"];
