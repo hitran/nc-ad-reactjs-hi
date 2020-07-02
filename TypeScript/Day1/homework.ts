@@ -1,4 +1,4 @@
-/* Create 3 classes that implements an interface */
+/* Create 3 classes that implements interfaces */
 interface IShapes {
     getDimension: () => number
 }
